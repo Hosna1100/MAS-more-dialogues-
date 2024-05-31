@@ -1,5 +1,3 @@
-I'll add more files.
-
 ### trollge.rpy
  ask Monika about Trollge. go to: Hey Monika...> Media...> Do you know Trollge?
 ### modding.rpy
